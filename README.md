@@ -10,7 +10,7 @@
 
 ![Modern C++ template][github-sub-title:img]
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YUKITO0209&show_icons=true&theme=transparent&count_private=true&card_width=480)](https://space.bilibili.com/13845177)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YUKITO0209&show_icons=true&theme=transparent&count_private=true&include_all_commits=true&card_width=480)](https://space.bilibili.com/13845177)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YUKITO0209&layout=compact&card_width=480)](https://space.bilibili.com/13845177)
 
