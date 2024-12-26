@@ -1,4 +1,9 @@
-## 至真至诚 (,,・ω・,,)
+## 至真至誠 (,,・ω・,,)
+
+- 🌱 I’m currently pursuing a MSc degree in [Business Information Systems 商務資訊系統](https://www.cb.cityu.edu.hk/is/postgraduate-degrees/taught-postgraduate/msc-business-information-systems), [City University of Hong Kong (Dongguan) 香港城市大學（東莞）](https://www.cityu-dg.edu.cn/home).
+- 🔭 I’m currently learning courses on data analysis and Japanese language.
+- 📫 How to reach me: wjw20020209@outlook.com
+- ⚡ I'm not very good, so please don't have high expectations of me.
 
 <div id="title" align=center>
 
@@ -15,7 +20,8 @@
 ![](https://img.shields.io/badge/喜欢-摸鱼-blue) 
 ![](https://img.shields.io/badge/讨厌-学习-yellow) 
 ![](https://img.shields.io/badge/MBTI-INFJ-green) 
-![](https://img.shields.io/badge/爱好-二次元-red)
+
+![](https://img.shields.io/badge/爱好-二次元、摄影、历史、语言-red)
 ![](https://komarev.com/ghpvc/?username=YUKITO0209&color=ff69b4&abbreviated=true)
 
 </div>
