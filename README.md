@@ -1,7 +1,8 @@
 ## 至真至誠 (,,・ω・,,)
 
-- 🌱 I’m currently pursuing a MSc degree in [Business Information Systems 商務資訊系統](https://www.cb.cityu.edu.hk/is/postgraduate-degrees/taught-postgraduate/msc-business-information-systems), [City University of Hong Kong (Dongguan) 香港城市大學（東莞）](https://www.cityu-dg.edu.cn/home).
-- 🔭 I’m currently learning courses on data analysis and Japanese language.
+- 🌱 I'm currently pursuing a MSc degree in [Business Information Systems 商務資訊系統](https://www.cb.cityu.edu.hk/is/postgraduate-degrees/taught-postgraduate/msc-business-information-systems), [City University of Hong Kong (Dongguan) 香港城市大學（東莞）](https://www.cityu-dg.edu.cn/home).
+- 🔭 I'm currently learning courses on data analysis and Japanese language.
+- 💬 You can talk with me in these languages: Mandarin Chinese, Jianghuai Mandarin, Wu Chinese, English, Japanese, and French (Listed in order of proficiency from highest to lowest).
 - 📫 How to reach me: wjw20020209@outlook.com
 - ⚡ I'm not very good, so please don't have high expectations of me.
 
