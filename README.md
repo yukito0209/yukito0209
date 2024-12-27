@@ -1,6 +1,6 @@
 ## 至真至誠 (,,・ω・,,)
 
-<img align="right" width="400" src="image\liz.jpg">
+<img align="right" width="350" src="image\liz.jpg">
 
 <div style="max-width: 560px;">
 
