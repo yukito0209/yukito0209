@@ -12,7 +12,7 @@
 
 </div>
 
-<div id="title" align=center>
+<div id="title" align="left">
 
 ![Modern C++ template][github-sub-title:img]
 
@@ -27,7 +27,6 @@
 ![](https://img.shields.io/badge/喜欢-摸鱼-blue) 
 ![](https://img.shields.io/badge/讨厌-学习-yellow) 
 ![](https://img.shields.io/badge/MBTI-INFJ-green) 
-
 ![](https://img.shields.io/badge/爱好-二次元、摄影、历史、语言-red)
 ![](https://komarev.com/ghpvc/?username=yukito0209&color=ff69b4&abbreviated=true)
 
