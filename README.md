@@ -16,9 +16,9 @@
 
 ![Modern C++ template][github-sub-title:img]
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yukito0209&show_icons=true&theme=transparent&count_private=true&include_all_commits=true&card_width=480)](https://space.bilibili.com/13845177)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yukito0209&show_icons=true&theme=transparent&count_private=true&include_all_commits=true&card_width=400)](https://space.bilibili.com/13845177)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukito0209&layout=compact&card_width=480)](https://space.bilibili.com/13845177)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukito0209&layout=compact&card_width=437)](https://space.bilibili.com/13845177)
 
 <!-- [![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-mq%E7%99%BD-yello)](https://www.zhihu.com/people/o4ze4r)
 [![youtube](https://img.shields.io/badge/video-YouTube-red)](https://www.youtube.com/channel/UCey35Do4RGewqr-6EiaCJrg) -->
@@ -27,6 +27,7 @@
 ![](https://img.shields.io/badge/喜欢-摸鱼-blue) 
 ![](https://img.shields.io/badge/讨厌-学习-yellow) 
 ![](https://img.shields.io/badge/MBTI-INFJ-green) 
+
 ![](https://img.shields.io/badge/爱好-二次元、摄影、历史、语言-red)
 ![](https://komarev.com/ghpvc/?username=yukito0209&color=ff69b4&abbreviated=true)
 
