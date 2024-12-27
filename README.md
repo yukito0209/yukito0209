@@ -1,10 +1,16 @@
 ## 至真至誠 (,,・ω・,,)
 
+<img align="right" width="400" src="image\liz.jpg">
+
+<div style="max-width: 560px;">
+
 - 🌱 I'm currently pursuing a MSc degree in [Business Information Systems 商務資訊系統](https://www.cb.cityu.edu.hk/is/postgraduate-degrees/taught-postgraduate/msc-business-information-systems), [City University of Hong Kong (Dongguan) 香港城市大學（東莞）](https://www.cityu-dg.edu.cn/home).
 - 🔭 I'm currently learning courses on data analysis and Japanese language.
-- 💬 You can talk with me in these languages: Mandarin Chinese, Jianghuai Mandarin, Wu Chinese, English, Japanese, and French (Listed in order of proficiency from highest to lowest).
+- 💬 You can talk with me in these languages: Mandarin Chinese, Jianghuai Mandarin, Wu Chinese, English, Japanese, and French.
 - 📫 How to reach me: wjw20020209@outlook.com
 - ⚡ I'm not very good, so please don't have high expectations of me.
+
+</div>
 
 <div id="title" align=center>
 
@@ -32,7 +38,7 @@
 
 
 
-![兔兔](image/amiya.jpg)
+<!-- ![兔兔](image/amiya.jpg) -->
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=3000&color=F7B4E0&center=true&vCenter=true&multiline=true&width=435&height=85&lines=Kerwin+Wang;Stay+young%2C+stay+simple!
 
