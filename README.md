@@ -1,12 +1,11 @@
-## 至真至誠 (,,・ω・,,)
+## 是何人彈奏我的長河吟？？？？？？？
 
 <img align="right" width="350" src="image\liz.jpg">
 
 <div style="max-width: 560px;">
 
 - 🌱 I'm currently pursuing a MSc degree in [Business Information Systems 商務資訊系統](https://www.cb.cityu.edu.hk/is/postgraduate-degrees/taught-postgraduate/msc-business-information-systems), [City University of Hong Kong (Dongguan) 香港城市大學（東莞）](https://www.cityu-dg.edu.cn/home).
-- 🔭 I'm currently learning courses on data analysis and Japanese language.
-- 💬 You can talk with me in these languages: Mandarin Chinese, Jianghuai Mandarin, Wu Chinese, English, Japanese, and French.
+- 🔭 I'm currently learning courses on data analysis.
 - 📫 How to reach me: wjw20020209@outlook.com
 - ⚡ I'm not very good, so please don't have high expectations of me.
 
@@ -28,7 +27,7 @@
 ![](https://img.shields.io/badge/讨厌-学习-yellow) 
 ![](https://img.shields.io/badge/MBTI-INFJ-green) 
 
-![](https://img.shields.io/badge/爱好-二次元、摄影、历史、语言-red)
+![](https://img.shields.io/badge/爱好-动漫、摄影、历史、语言-red)
 ![](https://komarev.com/ghpvc/?username=yukito0209&color=ff69b4&abbreviated=true)
 
 </div>
