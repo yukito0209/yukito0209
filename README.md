@@ -172,7 +172,7 @@
 }
 
 .tech-icon:hover .tech-name {
-  visibility: visible;
+  visibility: invisible;
   opacity: 1;
 }
 
