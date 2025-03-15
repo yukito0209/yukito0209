@@ -152,53 +152,6 @@
            style="transition: all 0.3s; width: 50px; height: 50px; border-radius: 12px; padding: 6px;">
       <!-- <span class="tech-name">Unity</span> -->
     </a>
-
-
     
   </div>
 </div>
-
-<style>
-/* .tech-icon {
-  position: relative;
-  display: inline-flex;
-  flex-direction: column;
-  align-items: center;
-  transition: transform 0.2s;
-}
-
-.tech-icon:hover {
-  transform: translateY(-5px);
-}
-
-.tech-icon:hover .tech-name {
-  visibility: visible;
-  opacity: 1;
-}
-
-.tech-name {
-  visibility: hidden;
-  opacity: 0;
-  position: absolute;
-  bottom: -27px;
-  background: #2D3748;
-  color: white;
-  padding: 4px 8px;
-  border-radius: 4px;
-  font-size: 0.8rem;
-  transition: all 0.2s;
-  white-space: nowrap;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-}
-
-.tech-icon img {
-  border: 2px solid transparent;
-  transition: all 0.3s;
-}
-
-.tech-icon:hover img {
-  filter: brightness(1.1);
-  border-color:rgb(40, 128, 211);
-  box-shadow: 0 4px 12px rgba(172,20,90,0.2);
-} */
-</style>
