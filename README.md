@@ -1,17 +1,23 @@
 ## 是何人彈奏我的長河吟？？？？？？？
-
-<img align="right" width="350" src="image\liz.jpg">
+<img align="right" width="460" src="image/liz.jpg" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
 <div style="max-width: 560px;">
 
-- 🌱 I'm currently pursuing a MSc degree in [Business Information Systems 商務資訊系統](https://www.cb.cityu.edu.hk/is/postgraduate-degrees/taught-postgraduate/msc-business-information-systems), [City University of Hong Kong (Dongguan) 香港城市大學（東莞）](https://www.cityu-dg.edu.cn/home).
-- 🔭 I'm currently learning courses on data analysis.
-- 📫 How to reach me: wjw20020209@outlook.com
-- ⚡ I'm not very good, so please don't have high expectations of me.
+### 🎓 学术轨迹
+[![CityU](https://img.shields.io/badge/香港城市大學(東莞)-商學院%20|%20資訊系統學系-AC145A?style=flat-square&logo=bank&logoColor=white)](https://www.cb.cityu.edu.hk/is)  
+**理學碩士 - 商務資訊系統** (MSc BIS)  
+📅 2024-2026 | [课程大纲](https://www.cb.cityu.edu.hk/is/postgraduate-degrees/taught-postgraduate/msc-business-information-systems)
+
+[![NUIST](https://img.shields.io/badge/南京信息工程大学-计算机学院、网络空间安全学院-004080?style=flat-square&logo=shield&logoColor=white)](http://scs.nuist.edu.cn/)  
+**工学学士 - 计算机科学与技术** (BEng CS)  
+📅 2020-2024 | [学院官网](http://scs.nuist.edu.cn/)
+
+### 📮 通联方式
+[![Outlook](https://img.shields.io/badge/个人邮箱-wjw20020209@outlook.com-0072C6?style=flat-square&logo=microsoft-outlook)](mailto:wjw20020209@outlook.com)
 
 </div>
 
-<div id="title" align="center">
+<div>
 
 ![Modern C++ template][github-sub-title:img]
 
@@ -19,16 +25,15 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukito0209&layout=compact&card_width=437)](https://space.bilibili.com/13845177)
 
-<!-- [![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-mq%E7%99%BD-yello)](https://www.zhihu.com/people/o4ze4r)
-[![youtube](https://img.shields.io/badge/video-YouTube-red)](https://www.youtube.com/channel/UCey35Do4RGewqr-6EiaCJrg) -->
-
-<!-- [![modern cpp](https://img.shields.io/badge/code-Modern%20C++-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp)  -->
-![](https://img.shields.io/badge/喜欢-摸鱼-blue) 
-![](https://img.shields.io/badge/讨厌-学习-yellow) 
+<!-- ![](https://img.shields.io/badge/喜欢-摸鱼-blue) 
 ![](https://img.shields.io/badge/MBTI-INFJ-green) 
-
 ![](https://img.shields.io/badge/爱好-动漫、摄影、历史、语言-red)
-![](https://komarev.com/ghpvc/?username=yukito0209&color=ff69b4&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=yukito0209&color=ff69b4) -->
+
+![个人标签](https://img.shields.io/badge/喜欢-%F0%9F%90%8F%E6%91%B8%E9%B1%BC-89CFF0?style=flat) 
+![MBTI](https://img.shields.io/badge/MBTI-%F0%9F%A4%94INFJ-9ED8D8?style=flat) 
+![兴趣领域](https://img.shields.io/badge/爱好-%F0%9F%8E%AD%E5%8A%A8%E6%BC%AB+%F0%9F%93%B8%E6%91%84%E5%BD%B1-FFB6C1)
+![访问统计](https://komarev.com/ghpvc/?username=yukito0209&color=9F7AEA&style=flat-square&abbreviated=true)
 
 </div>
 
@@ -37,19 +42,3 @@
 
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=3000&color=F7B4E0&center=true&vCenter=true&multiline=true&width=435&height=85&lines=Kerwin+Wang;Stay+young%2C+stay+simple!
-
-
-<!--
-**yukito0209/yukito0209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
