@@ -54,103 +54,103 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" 
            alt="Android" 
            style="transition: all 0.3s; width: 50px; height: 50px; border-radius: 12px; padding: 6px;">
-      <span class="tech-name">Android</span>
+      <!-- <span class="tech-name">Android</span> -->
     </a>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" class="tech-icon">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
            alt="C" 
            style="transition: all 0.3s; width: 50px; height: 50px; border-radius: 12px; padding: 6px;">
-      <span class="tech-name">C Language</span>
+      <!-- <span class="tech-name">C Language</span> -->
     </a>
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" class="tech-icon">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
            alt="cplusplus" 
            style="transition: all 0.3s; width: 50px; height: 50px; border-radius: 12px; padding: 6px;">
-      <span class="tech-name">C++</span>
+      <!-- <span class="tech-name">C++</span> -->
     </a>
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer" class="tech-icon">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
            alt="csharp" 
            style="transition: all 0.3s; width: 50px; height: 50px; border-radius: 12px; padding: 6px;">
-      <span class="tech-name">C#</span>
+      <!-- <span class="tech-name">C#</span> -->
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer" class="tech-icon">
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
            alt="git" 
            style="transition: all 0.3s; width: 50px; height: 50px; border-radius: 12px; padding: 6px;">
-      <span class="tech-name">Git</span>
+      <!-- <span class="tech-name">Git</span> -->
     </a>
     <a href="https://www.java.com" target="_blank" rel="noreferrer" class="tech-icon">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
            alt="java" 
            style="transition: all 0.3s; width: 50px; height: 50px; border-radius: 12px; padding: 6px;">
-      <span class="tech-name">Java</span>
+      <!-- <span class="tech-name">Java</span> -->
     </a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer" class="tech-icon">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
            alt="linux" 
            style="transition: all 0.3s; width: 50px; height: 50px; border-radius: 12px; padding: 6px;">
-      <span class="tech-name">Linux</span>
+      <!-- <span class="tech-name">Linux</span> -->
     </a>
     <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer" class="tech-icon">
       <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"
            alt="matlab" 
            style="transition: all 0.3s; width: 50px; height: 50px; border-radius: 12px; padding: 6px;">
-      <span class="tech-name">MatLab</span>
+      <!-- <span class="tech-name">MatLab</span> -->
     </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" class="tech-icon">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
            alt="mysql" 
            style="transition: all 0.3s; width: 50px; height: 50px; border-radius: 12px; padding: 6px;">
-      <span class="tech-name">MySQL</span>
+      <!-- <span class="tech-name">MySQL</span> -->
     </a>
     <a href="https://opencv.org/" target="_blank" rel="noreferrer" class="tech-icon">
       <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"
            alt="opencv" 
            style="transition: all 0.3s; width: 50px; height: 50px; border-radius: 12px; padding: 6px;">
-      <span class="tech-name">OpenCV</span>
+      <!-- <span class="tech-name">OpenCV</span> -->
     </a>
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" class="tech-icon">
       <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
            alt="pandas" 
            style="transition: all 0.3s; width: 50px; height: 50px; border-radius: 12px; padding: 6px;">
-      <span class="tech-name">pandas</span>
+      <!-- <span class="tech-name">pandas</span> -->
     </a>
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer" class="tech-icon">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg"
            alt="photoshop" 
            style="transition: all 0.3s; width: 50px; height: 50px; border-radius: 12px; padding: 6px;">
-      <span class="tech-name">Photoshop</span>
+      <!-- <span class="tech-name">Photoshop</span> -->
     </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer" class="tech-icon">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
            alt="python" 
            style="transition: all 0.3s; width: 50px; height: 50px; border-radius: 12px; padding: 6px;">
-      <span class="tech-name">Pyhton</span>
+      <!-- <span class="tech-name">Pyhton</span> -->
     </a>
     <a href="https://pytorch.org/" target="_blank" rel="noreferrer" class="tech-icon">
       <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"
            alt="pytorch" 
            style="transition: all 0.3s; width: 50px; height: 50px; border-radius: 12px; padding: 6px;">
-      <span class="tech-name">PyTorch</span>
+      <!-- <span class="tech-name">PyTorch</span> -->
     </a>
     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" class="tech-icon">
       <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
            alt="scikit-learn" 
            style="transition: all 0.3s; width: 50px; height: 50px; border-radius: 12px; padding: 6px;">
-      <span class="tech-name">scikit-learn</span>
+      <!-- <span class="tech-name">scikit-learn</span> -->
     </a>
     <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer" class="tech-icon">
       <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"
            alt="seaborn" 
            style="transition: all 0.3s; width: 50px; height: 50px; border-radius: 12px; padding: 6px;">
-      <span class="tech-name">seaborn</span>
+      <!-- <span class="tech-name">seaborn</span> -->
     </a>
     <a href="https://unity.com/" target="_blank" rel="noreferrer" class="tech-icon">
       <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"
            alt="unity" 
            style="transition: all 0.3s; width: 50px; height: 50px; border-radius: 12px; padding: 6px;">
-      <span class="tech-name">Unity</span>
+      <!-- <span class="tech-name">Unity</span> -->
     </a>
 
 
@@ -159,7 +159,7 @@
 </div>
 
 <style>
-.tech-icon {
+/* .tech-icon {
   position: relative;
   display: inline-flex;
   flex-direction: column;
@@ -172,7 +172,7 @@
 }
 
 .tech-icon:hover .tech-name {
-  visibility: invisible;
+  visibility: visible;
   opacity: 1;
 }
 
@@ -200,5 +200,5 @@
   filter: brightness(1.1);
   border-color:rgb(40, 128, 211);
   box-shadow: 0 4px 12px rgba(172,20,90,0.2);
-}
+} */
 </style>
