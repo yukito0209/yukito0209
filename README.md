@@ -1,5 +1,13 @@
 ## 是何人彈奏我的長河吟？？？？？？？
-<img align="right" width="350" src="image/mirai.jpg" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<img align="right" 
+     width="350" 
+     src="image/mirai.jpg" 
+     style="
+         margin-top: 60px;    /* 调整上边距 */
+         margin-right: 20px;  /* 调整右边距 */
+         border-radius: 20px; 
+         box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+     ">
 
 <div style="max-width: 560px;">
 
