@@ -1,14 +1,19 @@
 ## 是何人彈奏我的長河吟？？？？？？？
-<img align="right" 
-     width="350" 
-     src="image/mirai.jpg" 
-     style="
-         margin-top: 60px;    /* 调整上边距 */
-         margin-right: 20px;  /* 调整右边距 */
-         border-radius: 20px; 
-         box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-     ">
-
+<div style="float: right; margin: 20px 0 20px 40px; position: relative; z-index: 1;">
+  <img width="320" 
+       src="image/mirai.jpg" 
+       style="
+           border-radius: 20px; 
+           box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+           border: 3px solid #f0f0f0;
+           transform: rotate(2deg);
+       ">
+  <!-- 新增动态徽章组 -->
+  <div style="position: absolute; right: -80px; top: 50%; transform: translateY(-50%);">
+    [![Stars](https://img.shields.io/github/stars/yukito0209?style=social)](https://github.com/yukito0209)
+    [![Followers](https://img.shields.io/github/followers/yukito0209?style=social)](https://github.com/yukito0209)
+  </div>
+</div>
 <div style="max-width: 560px;">
 
 ### 🎓 学术轨迹
