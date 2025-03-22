@@ -1,12 +1,5 @@
-<!-- <h2 align="center">👋 Hello! I'm Kerwin WANG.</h2> -->
-<!-- <h5 align="center">
-  <a href="https://nano.ac/">Blog</a>
-  &emsp;•&emsp;
-  <a href="https://t.me/NanoApe">Telegram</a>
-</h5> -->
-
 ## 是何人彈奏我的長河吟？？？？？？？
-<!-- <img align="right" width="360" src="image/liz.jpg" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"> -->
+<img align="right" width="220" src="image/liz.jpg" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
 <div style="max-width: 560px;">
 
@@ -24,14 +17,29 @@
 
 </div>
 
+<div>
 
-<!-- [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=3000&color=F7B4E0&center=true&vCenter=true&multiline=true&width=435&height=85&lines=Kerwin+Wang;Stay+young%2C+stay+simple! -->
+![Modern C++ template][github-sub-title:img]
 
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yukito0209&show_icons=true&theme=transparent&count_private=true&include_all_commits=true&card_width=40)](https://space.bilibili.com/13845177) -->
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukito0209&layout=compact&card_width=437)](https://space.bilibili.com/13845177) -->
+
+<!-- ![](https://img.shields.io/badge/喜欢-摸鱼-blue) 
+![](https://img.shields.io/badge/MBTI-INFJ-green) 
+![](https://img.shields.io/badge/爱好-动漫、摄影、历史、语言-red)
+![](https://komarev.com/ghpvc/?username=yukito0209&color=ff69b4) -->
 
 ![个人标签](https://img.shields.io/badge/喜欢-%F0%9F%90%8F%E6%91%B8%E9%B1%BC-89CFF0?style=flat) 
 ![MBTI](https://img.shields.io/badge/MBTI-%F0%9F%A4%94INFJ-9ED8D8?style=flat) 
 ![兴趣领域](https://img.shields.io/badge/爱好-%F0%9F%8E%AD%E5%8A%A8%E6%BC%AB+%F0%9F%93%B8%E6%91%84%E5%BD%B1-FFB6C1)
 ![访问统计](https://komarev.com/ghpvc/?username=yukito0209&color=9F7AEA&style=flat-square&abbreviated=true)
+
+</div>
+
+
+[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=3000&color=F7B4E0&center=true&vCenter=true&multiline=true&width=435&height=85&lines=Kerwin+Wang;Stay+young%2C+stay+simple!
+
 
 <table width="100%" align="center">
   <tr>
@@ -111,36 +119,9 @@
 </table>
 
 
+<h3 align="center">🛠️ 技术游乐场 | 点击图标探索技能树 🎮</h3>
 
-
-
-
-
-
-
-<!-- <div>
-
-![Modern C++ template][github-sub-title:img]
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yukito0209&show_icons=true&theme=transparent&count_private=true&include_all_commits=true&card_width=40)](https://space.bilibili.com/13845177)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukito0209&layout=compact&card_width=437)](https://space.bilibili.com/13845177) -->
-
-<!-- ![](https://img.shields.io/badge/喜欢-摸鱼-blue) 
-![](https://img.shields.io/badge/MBTI-INFJ-green) 
-![](https://img.shields.io/badge/爱好-动漫、摄影、历史、语言-red)
-![](https://komarev.com/ghpvc/?username=yukito0209&color=ff69b4) -->
-
-
-
-<!-- </div> -->
-
-
-
-
-<!-- <h3 align="center">🛠️ 技术游乐场 | 点击图标探索技能树 🎮</h3> -->
-
-<!-- <div align="center" style="padding: 1.5rem 0;">
+<div align="center" style="padding: 1.5rem 0;">
   <div class="tech-grid" style="
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(60px, 1fr));
@@ -235,4 +216,4 @@
     </a>
     
   </div>
-</div> -->
+</div>
