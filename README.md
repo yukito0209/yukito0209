@@ -32,18 +32,6 @@
 </tr>
 </table>
 
-<style>
-  @media (max-width: 768px) {
-    table, tr, td {
-      display: block !important;
-      width: 100% !important;
-    }
-    td {
-      padding: 15px 0 !important;
-    }
-  }
-</style>
-
 ### 📮 通联方式
 [![Outlook](https://img.shields.io/badge/个人邮箱-wjw20020209@outlook.com-0072C6?style=flat-square&logo=microsoft-outlook)](mailto:wjw20020209@outlook.com)
 
