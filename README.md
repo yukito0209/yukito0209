@@ -6,7 +6,7 @@
 </h5> -->
 
 ## 是何人彈奏我的長河吟？？？？？？？
-<img align="right" width="360" src="image/liz.jpg" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<!-- <img align="right" width="360" src="image/liz.jpg" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"> -->
 
 <div style="max-width: 560px;">
 
@@ -25,7 +25,7 @@
 </div>
 
 
-[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=3000&color=F7B4E0&center=true&vCenter=true&multiline=true&width=435&height=85&lines=Kerwin+Wang;Stay+young%2C+stay+simple!
+<!-- [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=3000&color=F7B4E0&center=true&vCenter=true&multiline=true&width=435&height=85&lines=Kerwin+Wang;Stay+young%2C+stay+simple! -->
 
 
 ![个人标签](https://img.shields.io/badge/喜欢-%F0%9F%90%8F%E6%91%B8%E9%B1%BC-89CFF0?style=flat) 
