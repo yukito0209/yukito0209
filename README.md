@@ -119,101 +119,29 @@
 </table>
 
 
-<h3 align="center">🛠️ 技术游乐场 | 点击图标探索技能树 🎮</h3>
+<h3 align="center">🛠️ 技能树 🎮</h3>
 
-<div align="center" style="padding: 1.5rem 0;">
-  <div class="tech-grid" style="
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(60px, 1fr));
-    gap: 1.2rem;
-    max-width: 800px;
-    margin: 0 auto;
-  ">
-    <a href="https://developer.android.com" target="_blank" rel="noreferrer" class="tech-icon">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" 
-           alt="Android" 
-           style="transition: all 0.3s; width: 50px; height: 50px; border-radius: 12px; padding: 6px;">
-    </a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" class="tech-icon">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-           alt="C" 
-           style="transition: all 0.3s; width: 50px; height: 50px; border-radius: 12px; padding: 6px;">
-    </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" class="tech-icon">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-           alt="cplusplus" 
-           style="transition: all 0.3s; width: 50px; height: 50px; border-radius: 12px; padding: 6px;">
-    </a>
-    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer" class="tech-icon">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-           alt="csharp" 
-           style="transition: all 0.3s; width: 50px; height: 50px; border-radius: 12px; padding: 6px;">
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer" class="tech-icon">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-           alt="git" 
-           style="transition: all 0.3s; width: 50px; height: 50px; border-radius: 12px; padding: 6px;">
-    </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer" class="tech-icon">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-           alt="java" 
-           style="transition: all 0.3s; width: 50px; height: 50px; border-radius: 12px; padding: 6px;">
-    </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer" class="tech-icon">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-           alt="linux" 
-           style="transition: all 0.3s; width: 50px; height: 50px; border-radius: 12px; padding: 6px;">
-    </a>
-    <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer" class="tech-icon">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"
-           alt="matlab" 
-           style="transition: all 0.3s; width: 50px; height: 50px; border-radius: 12px; padding: 6px;">
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" class="tech-icon">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-           alt="mysql" 
-           style="transition: all 0.3s; width: 50px; height: 50px; border-radius: 12px; padding: 6px;">
-    </a>
-    <a href="https://opencv.org/" target="_blank" rel="noreferrer" class="tech-icon">
-      <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"
-           alt="opencv" 
-           style="transition: all 0.3s; width: 50px; height: 50px; border-radius: 12px; padding: 6px;">
-    </a>
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" class="tech-icon">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
-           alt="pandas" 
-           style="transition: all 0.3s; width: 50px; height: 50px; border-radius: 12px; padding: 6px;">
-    </a>
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer" class="tech-icon">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg"
-           alt="photoshop" 
-           style="transition: all 0.3s; width: 50px; height: 50px; border-radius: 12px; padding: 6px;">
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer" class="tech-icon">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-           alt="python" 
-           style="transition: all 0.3s; width: 50px; height: 50px; border-radius: 12px; padding: 6px;">
-    </a>
-    <a href="https://pytorch.org/" target="_blank" rel="noreferrer" class="tech-icon">
-      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"
-           alt="pytorch" 
-           style="transition: all 0.3s; width: 50px; height: 50px; border-radius: 12px; padding: 6px;">
-    </a>
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" class="tech-icon">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
-           alt="scikit-learn" 
-           style="transition: all 0.3s; width: 50px; height: 50px; border-radius: 12px; padding: 6px;">
-    </a>
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer" class="tech-icon">
-      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"
-           alt="seaborn" 
-           style="transition: all 0.3s; width: 50px; height: 50px; border-radius: 12px; padding: 6px;">
-    </a>
-    <a href="https://unity.com/" target="_blank" rel="noreferrer" class="tech-icon">
-      <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"
-           alt="unity" 
-           style="transition: all 0.3s; width: 50px; height: 50px; border-radius: 12px; padding: 6px;">
-    </a>
-    
-  </div>
-</div>
+<p align="center">
+  <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img alt="dotnet"
+    src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img alt="Python"
+    src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="pandas" src="https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img alt="PyTorch"
+    src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img alt="scikit-learn" src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="Android" src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+  <img alt="Linux"
+    src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white" />
+<img alt="Git"
+    src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img alt="Unity"
+    src="https://img.shields.io/badge/-Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black" />
+<img alt="diagramsdotnet" src="https://img.shields.io/badge/-draw.io-F08705?style=flat-square&logo=diagramsdotnet&logoColor=white" />
+<img alt="Docker" src="https://img.shields.io/badge/-docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+
+</p>
+
