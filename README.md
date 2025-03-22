@@ -11,27 +11,38 @@
 </div> -->
 
 
-<div align="center">
+<div align="">
 
 ### 🎓 学术轨迹
-<table>
-  <tr>
-    <td align="center">
+
+<table style="border: none; border-collapse: collapse; border-spacing: 0;">
+<tr style="border: none;">
+<td style="border: none; padding: 8px;" align="">
 
 [![CityU](https://img.shields.io/badge/香港城市大學(東莞)-商學院%20|%20資訊系統學系-AC145A?style=flat-square&logo=bank&logoColor=white)](https://www.cb.cityu.edu.hk/is)  
 **理學碩士 - 商務資訊系統** (MSc BIS)  
 📅 2024-2026 | [课程大纲](https://www.cb.cityu.edu.hk/is/postgraduate-degrees/taught-postgraduate/msc-business-information-systems)
 </td>
-<td width="10%" style="border-left: 2px solid #e1e4e8; height: 120px;"></td>
-<td align="center">
+<td style="border: none; padding: 8px;" align="">
 
 [![NUIST](https://img.shields.io/badge/南京信息工程大学-计算机学院、网络空间安全学院-004080?style=flat-square&logo=shield&logoColor=white)](http://scs.nuist.edu.cn/)  
 **工学学士 - 计算机科学与技术** (BEng CS)  
 📅 2020-2024 | [学院官网](http://scs.nuist.edu.cn/)
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
+<style>
+  @media (max-width: 768px) {
+    table, tr, td {
+      display: block !important;
+      width: 100% !important;
+    }
+    td {
+      padding: 15px 0 !important;
+    }
+  }
+</style>
 
 ### 📮 通联方式
 [![Outlook](https://img.shields.io/badge/个人邮箱-wjw20020209@outlook.com-0072C6?style=flat-square&logo=microsoft-outlook)](mailto:wjw20020209@outlook.com)
@@ -42,10 +53,6 @@
 <div align="center">
 
 ![Modern C++ template][github-sub-title:img]
-
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yukito0209&show_icons=true&theme=transparent&count_private=true&include_all_commits=true&card_width=40)](https://space.bilibili.com/13845177) -->
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukito0209&layout=compact&card_width=437)](https://space.bilibili.com/13845177) -->
 
 ![个人标签](https://img.shields.io/badge/喜欢-%F0%9F%90%8F%E6%91%B8%E9%B1%BC-89CFF0?style=flat) 
 ![MBTI](https://img.shields.io/badge/MBTI-%F0%9F%A4%94INFJ-9ED8D8?style=flat) 
