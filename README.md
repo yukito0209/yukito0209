@@ -10,34 +10,36 @@
        ">
 </div> -->
 
+
 <div align="center">
+
+### 🎓 学术轨迹
 <table>
   <tr>
-    <!-- 香港城市大学 (左栏) -->
-    <td width="45%" align="left" valign="top">
+    <td align="center">
 
-[![CityU](https://img.shields.io/badge/香港城市大學(東莞)-商學院%20|%20資訊系統學系-AC145A?style=for-the-badge&logo=bank&logoColor=white)](https://www.cb.cityu.edu.hk/is)  
+[![CityU](https://img.shields.io/badge/香港城市大學(東莞)-商學院%20|%20資訊系統學系-AC145A?style=flat-square&logo=bank&logoColor=white)](https://www.cb.cityu.edu.hk/is)  
 **理學碩士 - 商務資訊系統** (MSc BIS)  
 📅 2024-2026 | [课程大纲](https://www.cb.cityu.edu.hk/is/postgraduate-degrees/taught-postgraduate/msc-business-information-systems)
-    </td>
-    <!-- 垂直分隔线 -->
-    <td width="10%" style="border-left: 2px solid #e1e4e8; height: 120px;"></td>
-    <!-- 南京信息工程大学 (右栏) -->
-    <td width="45%" align="left" valign="top">
+</td>
+<td width="10%" style="border-left: 2px solid #e1e4e8; height: 120px;"></td>
+<td align="center">
 
-[![NUIST](https://img.shields.io/badge/南京信息工程大学-计算机学院、网络空间安全学院-004080?style=for-the-badge&logo=shield&logoColor=white)](http://scs.nuist.edu.cn/)  
+[![NUIST](https://img.shields.io/badge/南京信息工程大学-计算机学院、网络空间安全学院-004080?style=flat-square&logo=shield&logoColor=white)](http://scs.nuist.edu.cn/)  
 **工学学士 - 计算机科学与技术** (BEng CS)  
 📅 2020-2024 | [学院官网](http://scs.nuist.edu.cn/)
     </td>
   </tr>
 </table>
-</div>
+
 
 ### 📮 通联方式
 [![Outlook](https://img.shields.io/badge/个人邮箱-wjw20020209@outlook.com-0072C6?style=flat-square&logo=microsoft-outlook)](mailto:wjw20020209@outlook.com)
 
+</div>
 
-<div>
+
+<div align="center">
 
 ![Modern C++ template][github-sub-title:img]
 
