@@ -8,11 +8,6 @@
            border: 3px solid #f0f0f0;
            transform: rotate(2deg);
        ">
-  <!-- 新增动态徽章组 -->
-  <div style="position: absolute; right: -80px; top: 50%; transform: translateY(-50%);">
-    [![Stars](https://img.shields.io/github/stars/yukito0209?style=social)](https://github.com/yukito0209)
-    [![Followers](https://img.shields.io/github/followers/yukito0209?style=social)](https://github.com/yukito0209)
-  </div>
 </div>
 <div style="max-width: 560px;">
 
