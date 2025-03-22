@@ -25,11 +25,6 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukito0209&layout=compact&card_width=437)](https://space.bilibili.com/13845177) -->
 
-<!-- ![](https://img.shields.io/badge/喜欢-摸鱼-blue) 
-![](https://img.shields.io/badge/MBTI-INFJ-green) 
-![](https://img.shields.io/badge/爱好-动漫、摄影、历史、语言-red)
-![](https://komarev.com/ghpvc/?username=yukito0209&color=ff69b4) -->
-
 ![个人标签](https://img.shields.io/badge/喜欢-%F0%9F%90%8F%E6%91%B8%E9%B1%BC-89CFF0?style=flat) 
 ![MBTI](https://img.shields.io/badge/MBTI-%F0%9F%A4%94INFJ-9ED8D8?style=flat) 
 ![兴趣领域](https://img.shields.io/badge/爱好-%F0%9F%8E%AD%E5%8A%A8%E6%BC%AB+%F0%9F%93%B8%E6%91%84%E5%BD%B1-FFB6C1)
