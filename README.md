@@ -1,5 +1,5 @@
 ## 是何人彈奏我的長河吟？？？？？？？
-<div style="float: right; margin: 20px 0 20px 40px; position: relative; z-index: 1;">
+<!-- <div style="float: right; margin: 20px 0 20px 40px; position: relative; z-index: 1;">
   <img width="320" 
        src="image/mirai.jpg" 
        style="
@@ -8,7 +8,7 @@
            border: 3px solid #f0f0f0;
            transform: rotate(2deg);
        ">
-</div>
+</div> -->
 <div style="max-width: 560px;">
 
 ### 🎓 学术轨迹
