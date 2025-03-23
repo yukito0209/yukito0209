@@ -23,18 +23,11 @@
 
 ### 📮 通联方式
 
-<table style="border: none; border-collapse: collapse; border-spacing: 0;">
-<tr style="border: none;">
-<td style="border: none; padding: 8px;" align="">
-
 [![Gmail](https://img.shields.io/badge/Gmail-yukitoqaq@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yukitoqaq@gmail.com)
-</td>
-<td style="border: none; padding: 8px;" align="">
-
 [![Bilibili](https://img.shields.io/badge/Bilibili-YukitoOwO-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/13845177)
-</td>
-</tr>
-</table>
+[![Xiaohongshu](https://img.shields.io/badge/小红书-喵哩哩-FF2442?style=flat-square&logo=xiaohongshu&logoColor=white)](https://www.xiaohongshu.com/user/profile/5fbd27520000000001000914)
+[![Steam](https://img.shields.io/badge/Steam-零食杏仁-000000?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/id/yukito20020209/)
+[![Miyoushe](https://img.shields.io/badge/米游社-yukito-4EA4DD?style=flat-square&logo=mihoyo&logoColor=white)](https://www.miyoushe.com/dby/accountCenter/postList?id=6121542)
 
 </div>
 
