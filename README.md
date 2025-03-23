@@ -22,7 +22,19 @@
 </table>
 
 ### 📮 通联方式
-[![Outlook](https://img.shields.io/badge/个人邮箱-wjw20020209@outlook.com-0072C6?style=flat-square&logo=microsoft-outlook)](mailto:wjw20020209@outlook.com)
+
+<table style="border: none; border-collapse: collapse; border-spacing: 0;">
+<tr style="border: none;">
+<td style="border: none; padding: 8px;" align="">
+
+[![Gmail](https://img.shields.io/badge/Gmail-yukitoqaq@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yukitoqaq@gmail.com)
+</td>
+<td style="border: none; padding: 8px;" align="">
+
+[![Bilibili](https://img.shields.io/badge/Bilibili-YukitoOwO-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/13845177)
+</td>
+</tr>
+</table>
 
 </div>
 
