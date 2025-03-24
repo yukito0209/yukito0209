@@ -1,4 +1,5 @@
-## 是何人彈奏我的長河吟？？？？？？？
+<!-- ## 是何人彈奏我的長河吟？？？？？？？ -->
+## _一緒に泣きたいよ、一緒に笑いたいよ、僕らの道が平行線だとしても。_
 
 <div align="">
 
@@ -72,7 +73,6 @@
     </a></td>
   </tr>
   <tr>
-<!-- Thanks @zetaloop! -->
     <td colspan="2" align="center"><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
       <picture>
         <source
@@ -96,7 +96,6 @@
       </picture>
     </a></td>
     <td colspan="2" align="center"><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-<!-- UTC +8.00 好怪，等有空改成 UTC +08:00 -->
       <picture>
         <source
           srcset="http://github-profile-summary-cards-mirror.vercel.app/api/cards/productive-time?username=yukito0209&utcOffset=8&border_color=0000&bg_color=0000&theme=nord_dark"
