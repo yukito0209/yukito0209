@@ -11,7 +11,7 @@
 
 [![CityU](https://img.shields.io/badge/香港城市大學(東莞)-商學院%20|%20資訊系統學系-AC145A?style=flat-square&logo=bank&logoColor=white)](https://www.cb.cityu.edu.hk/is)  
 **理學碩士 - 商務資訊系統** (MSc BIS)  
-📅 2024-2026 | [课程大纲](https://www.cb.cityu.edu.hk/is/postgraduate-degrees/taught-postgraduate/msc-business-information-systems)
+📅 2024-2026 | [課程大綱](https://www.cb.cityu.edu.hk/is/postgraduate-degrees/taught-postgraduate/msc-business-information-systems)
 </td>
 <td style="border: none; padding: 8px;" align="">
 
