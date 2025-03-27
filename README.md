@@ -126,9 +126,7 @@
 <h3 align="center">🛠️ 技能树 🎮</h3>
 
 <p align="center">
-  <a herf="https://learn.microsoft.com/zh-cn/cpp/c-language/?view=msvc-170">
-    <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white" />
-  </a>
+  <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   <img alt="dotnet"
     src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
