@@ -29,7 +29,7 @@
 
 <td style="border: none; padding: 8px; width: 50%; vertical-align: middle;"> <!-- Main cell 1 -->
     <table style="border: none; border-collapse: collapse; vertical-align: middle;">
-        <tr style="border: none;">
+        <tr style="border: none; vertical-align: middle;">
             <td style="border: none; padding-right: 10px; vertical-align: middle;"> <!-- Nested cell for logo -->
                 <img src="image/香港城市大学（东莞）-logo.svg" alt="香港城市大学(东莞) 校徽" width="50">
             </td>
@@ -47,7 +47,7 @@
 
 <td style="border: none; padding: 8px; width: 50%; vertical-align: middle;"> <!-- Main cell 2 -->
     <table style="border: none; border-collapse: collapse; vertical-align: middle;">
-        <tr style="border: none;">
+        <tr style="border: none; vertical-align: middle;">
             <td style="border: none; padding-right: 10px; vertical-align: middle;"> <!-- Nested cell for logo -->
                 <img src="image/南京信息工程大学-logo.svg" alt="南京信息工程大学 校徽" width="50">
             </td>
