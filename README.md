@@ -22,11 +22,13 @@
 </tr>
 </table> -->
 
+### 🎓 学术轨迹
+
 <table style="border: none; border-collapse: collapse; border-spacing: 0; width: 100%;"> <!-- Optional: width: 100% -->
 <tr style="border: none;">
 
-<td style="border: none; padding: 8px; width: 50%;"> <!-- Main cell 1 -->
-    <table style="border: none; border-collapse: collapse;">
+<td style="border: none; padding: 8px; width: 50%; vertical-align: middle;"> <!-- Main cell 1 -->
+    <table style="border: none; border-collapse: collapse; vertical-align: middle;">
         <tr style="border: none;">
             <td style="border: none; padding-right: 10px; vertical-align: middle;"> <!-- Nested cell for logo -->
                 <img src="image/香港城市大学（东莞）-logo.svg" alt="香港城市大学(东莞) 校徽" width="50">
@@ -43,15 +45,15 @@
     </table>
 </td>
 
-<td style="border: none; padding: 8px; width: 50%;"> <!-- Main cell 2 -->
-    <table style="border: none; border-collapse: collapse;">
+<td style="border: none; padding: 8px; width: 50%; vertical-align: middle;"> <!-- Main cell 2 -->
+    <table style="border: none; border-collapse: collapse; vertical-align: middle;">
         <tr style="border: none;">
             <td style="border: none; padding-right: 10px; vertical-align: middle;"> <!-- Nested cell for logo -->
                 <img src="image/南京信息工程大学-logo.svg" alt="南京信息工程大学 校徽" width="50">
             </td>
             <td style="border: none; vertical-align: middle;"> <!-- Nested cell for text -->
                 <span>
-                
+
 [![NUIST](https://img.shields.io/badge/南京信息工程大学-计算机学院、网络空间安全学院-004080?style=flat-square&logo=shield&logoColor=white)](https://www.nuist.edu.cn/main.htm)<br>
                     **工学学士 - 计算机科学与技术** (BEng CS)<br>
                     📅 2020-2024 | <a href="http://scs.nuist.edu.cn/">学院官网</a>
