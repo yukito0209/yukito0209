@@ -3,7 +3,7 @@
 
 <div align="">
 
-### 🎓 学术轨迹
+<!-- ### 🎓 学术轨迹
 
 <table style="border: none; border-collapse: collapse; border-spacing: 0;">
 <tr style="border: none;">
@@ -18,6 +18,29 @@
 [![NUIST](https://img.shields.io/badge/南京信息工程大学-计算机学院、网络空间安全学院-004080?style=flat-square&logo=shield&logoColor=white)](https://www.nuist.edu.cn/main.htm)  
 **工学学士 - 计算机科学与技术** (BEng CS)  
 📅 2020-2024 | [学院官网](http://scs.nuist.edu.cn/)
+</td>
+</tr>
+</table> -->
+
+<table style="border: none; border-collapse: collapse; border-spacing: 0;">
+<tr style="border: none;">
+<td style="border: none; padding: 8px; vertical-align: top;">
+<img src="image\香港城市大学（东莞）-logo.svg" alt="香港城市大学(东莞) 校徽" width="50" style="vertical-align: middle; margin-right: 10px;"> 
+<span>
+
+[![CityU](https://img.shields.io/badge/香港城市大學(東莞)-商學院%20|%20資訊系統學系-AC145A?style=flat-square&logo=bank&logoColor=white)](https://www.cityu-dg.edu.cn/)<br>
+**理學碩士 - 商務資訊系統** (MSc BIS)<br>
+📅 2024-2026 | <a href="https://www.cb.cityu.edu.hk/is/postgraduate-degrees/taught-postgraduate/msc-business-information-systems">課程大綱</a>
+</span>
+</td>
+<td style="border: none; padding: 8px; vertical-align: top;"> 
+    <img src="image\南京信息工程大学-logo.svg" alt="南京信息工程大学 校徽" width="50" style="vertical-align: middle; margin-right: 10px;">
+<span>
+
+[![NUIST](https://img.shields.io/badge/南京信息工程大学-计算机学院、网络空间安全学院-004080?style=flat-square&logo=shield&logoColor=white)](https://www.nuist.edu.cn/main.htm)<br> <!-- 可以在文本元素后添加 <br> 换行 -->
+**工学学士 - 计算机科学与技术** (BEng CS)<br>
+📅 2020-2024 | <a href="http://scs.nuist.edu.cn/">学院官网</a>
+    </span>
 </td>
 </tr>
 </table>
