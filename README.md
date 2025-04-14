@@ -3,7 +3,7 @@
 
 <div align="">
 
-<!-- ### 🎓 学术轨迹
+### 🎓 学术轨迹
 
 <table style="border: none; border-collapse: collapse; border-spacing: 0;">
 <tr style="border: none;">
@@ -20,20 +20,20 @@
 📅 2020-2024 | [学院官网](http://scs.nuist.edu.cn/)
 </td>
 </tr>
-</table> -->
+</table>
 
-### 🎓 学术轨迹
+<!-- ### 🎓 学术轨迹
 
-<table style="border: none; border-collapse: collapse; border-spacing: 0; width: 100%;"> <!-- Optional: width: 100% -->
+<table style="border: none; border-collapse: collapse; border-spacing: 0; width: 100%;">
 <tr style="border: none;">
 
-<td style="border: none; padding: 8px; width: 50%; vertical-align: middle;"> <!-- Main cell 1 -->
+<td style="border: none; padding: 8px; width: 50%; vertical-align: middle;">
     <table style="border: none; border-collapse: collapse; vertical-align: middle;">
         <tr style="border: none; vertical-align: middle;">
-            <td style="border: none; padding-right: 10px; vertical-align: middle;"> <!-- Nested cell for logo -->
+            <td style="border: none; padding-right: 10px; vertical-align: middle;">
                 <img src="image/香港城市大学（东莞）-logo.svg" alt="香港城市大学(东莞) 校徽" width="50">
             </td>
-            <td style="border: none; vertical-align: middle;"> <!-- Nested cell for text -->
+            <td style="border: none; vertical-align: middle;"> 
                 <span>
 
 [![CityU](https://img.shields.io/badge/香港城市大學(東莞)-商學院%20|%20資訊系統學系-AC145A?style=flat-square&logo=bank&logoColor=white)](https://www.cityu-dg.edu.cn/)<br>
@@ -45,13 +45,13 @@
     </table>
 </td>
 
-<td style="border: none; padding: 8px; width: 50%; vertical-align: middle;"> <!-- Main cell 2 -->
+<td style="border: none; padding: 8px; width: 50%; vertical-align: middle;"> 
     <table style="border: none; border-collapse: collapse; vertical-align: middle;">
         <tr style="border: none; vertical-align: middle;">
-            <td style="border: none; padding-right: 10px; vertical-align: middle;"> <!-- Nested cell for logo -->
+            <td style="border: none; padding-right: 10px; vertical-align: middle;"> 
                 <img src="image/南京信息工程大学-logo.svg" alt="南京信息工程大学 校徽" width="50">
             </td>
-            <td style="border: none; vertical-align: middle;"> <!-- Nested cell for text -->
+            <td style="border: none; vertical-align: middle;"> 
                 <span>
 
 [![NUIST](https://img.shields.io/badge/南京信息工程大学-计算机学院、网络空间安全学院-004080?style=flat-square&logo=shield&logoColor=white)](https://www.nuist.edu.cn/main.htm)<br>
@@ -64,7 +64,7 @@
 </td>
 
 </tr>
-</table>
+</table> -->
 
 ### 📮 通联方式
 
