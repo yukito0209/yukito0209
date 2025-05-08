@@ -1,4 +1,3 @@
-<!-- ## 是何人彈奏我的長河吟？？？？？？？ -->
 ## _一緒に泣きたいよ、一緒に笑いたいよ、僕らの道が平行線だとしても。_
 
 <div align="">
@@ -166,4 +165,3 @@
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
 </p>
-
