@@ -31,7 +31,6 @@
 
 </div>
 
-
 <div align="center">
 
 ![Modern C++ template][github-sub-title:img]
