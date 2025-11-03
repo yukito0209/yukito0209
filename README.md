@@ -179,7 +179,8 @@
 <p align="center">
   <img alt="macOS" src="https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white" />
   <img alt="VS Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-  <img alt="Claude Code" src="https://img.shields.io/badge/-Claude%20Code-6366F1?style=flat-square&logo=anthropic&logoColor=white" />
+  <img alt="GitHub Copilot" src="https://img.shields.io/badge/-Github%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   <img alt="Conda" src="https://img.shields.io/badge/-Conda-44A833?style=flat-square&logo=anaconda&logoColor=white" />
+  <img alt="Obsidian" src="https://img.shields.io/badge/-Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white" />
 </p>
