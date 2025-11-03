@@ -58,10 +58,10 @@
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=3000&color=F7B4E0&center=true&vCenter=true&multiline=true&width=435&height=85&lines=Kerwin+Wang;Stay+young%2C+stay+simple!
 
-![个人标签](https://img.shields.io/badge/喜欢-%F0%9F%90%8F%E6%91%B8%E9%B1%BC-89CFF0?style=flat-square)
-![MBTI](https://img.shields.io/badge/MBTI-%F0%9F%A4%94INFJ-9ED8D8?style=flat-square)
-![兴趣领域](https://img.shields.io/badge/爱好-%F0%9F%8E%AD%E5%8A%A8%E6%BC%AB+%F0%9F%93%B8%E6%91%84%E5%BD%B1-FFB6C1?style=flat-square)
-![访问统计](https://komarev.com/ghpvc/?username=yukito0209&color=9F7AEA&style=flat-square&abbreviated=true&label=PROFILE+VIEWS)
+![个人标签](https://img.shields.io/badge/喜欢-摸鱼-00D4FF?style=for-the-badge&labelColor=0A1A2F&color=00D4FF)
+![MBTI](https://img.shields.io/badge/MBTI-INFJ-7C3AED?style=for-the-badge&labelColor=1E1B4B&color=7C3AED)
+![兴趣领域](https://img.shields.io/badge/爱好-动漫·摄影-FF6B9D?style=for-the-badge&labelColor=4A1942&color=FF6B9D)
+![访问统计](https://komarev.com/ghpvc/?username=yukito0209&color=10B981&style=for-the-badge&abbreviated=true&label=PROFILE+VIEWS)
 
 </div>
 
