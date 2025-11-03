@@ -1,33 +1,44 @@
 ## _一緒に泣きたいよ、一緒に笑いたいよ、僕らの道が平行線だとしても。_
 
-<div align="">
+<div align="center">
+  <img src="image/banner.png" alt="banner" width="100%" />
+</div>
 
-### 🎓 学术轨迹
+<div align="center">
+
+### 🎓 Education
 
 <table style="border: none; border-collapse: collapse; border-spacing: 0;">
 <tr style="border: none;">
-<td style="border: none; padding: 8px;" align="">
+<td style="border: none; padding: 8px;" align="center">
 
-[![CityU](https://img.shields.io/badge/香港城市大學(東莞)-商學院%20|%20資訊系統學系-AC145A?style=flat-square&logo=bank&logoColor=white)](https://www.cityu-dg.edu.cn/)  
-**理學碩士 - 商務資訊系統** (MSc BIS)  
-📅 2024-2026 | [課程大綱](https://www.cb.cityu.edu.hk/is/postgraduate-degrees/taught-postgraduate/msc-business-information-systems)
+[![CityU](<https://img.shields.io/badge/CityUHK(DG)-School%20of%20Business-AC145A?style=flat-square&logo=bank&logoColor=white>)](https://www.cityu-dg.edu.cn/)
+**MSc Business Information Systems**
+
+<!-- 📅 2024-2026 | [課程大綱](https://www.cb.cityu.edu.hk/is/postgraduate-degrees/taught-postgraduate/msc-business-information-systems) -->
+
 </td>
-<td style="border: none; padding: 8px;" align="">
+<td style="border: none; padding: 8px;" align="center">
 
-[![NUIST](https://img.shields.io/badge/南京信息工程大学-计算机学院、网络空间安全学院-004080?style=flat-square&logo=shield&logoColor=white)](https://www.nuist.edu.cn/main.htm)  
-**工学学士 - 计算机科学与技术** (BEng CS)  
-📅 2020-2024 | [学院官网](http://scs.nuist.edu.cn/)
+[![NUIST](https://img.shields.io/badge/NUIST-School%20of%20Computer-004080?style=flat-square&logo=shield&logoColor=white)](https://www.nuist.edu.cn/main.htm)
+**B.Eng Computer Science and Technology**
+
+<!-- 📅 2020-2024 | [学院官网](http://scs.nuist.edu.cn/) -->
+
 </td>
 </tr>
 </table>
 
-### 📮 通联方式
+<!-- ### 📮 Contact
 
 [![Gmail](https://img.shields.io/badge/Gmail-yukitoqaq@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yukitoqaq@gmail.com)
-[![bilibili](https://img.shields.io/badge/bilibili-YukitoOwO-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/13845177)
-[![Xiaohongshu](https://img.shields.io/badge/小红书-喵哩哩-FF2442?style=flat-square&logo=xiaohongshu&logoColor=white)](https://www.xiaohongshu.com/user/profile/5fbd27520000000001000914)
-[![Steam](https://img.shields.io/badge/Steam-零食杏仁-000000?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/id/yukito20020209/)
-[![Miyoushe](https://img.shields.io/badge/米游社-yukito-4EA4DD?style=flat-square&logo=mihoyo&logoColor=white)](https://www.miyoushe.com/dby/accountCenter/postList?id=6121542)
+[![bilibili](https://img.shields.io/badge/bilibili-YukitoOwO-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/13845177) -->
+
+<!-- [![Xiaohongshu](https://img.shields.io/badge/小红书-喵哩哩-FF2442?style=flat-square&logo=xiaohongshu&logoColor=white)](https://www.xiaohongshu.com/user/profile/5fbd27520000000001000914) -->
+
+<!-- [![Steam](https://img.shields.io/badge/Steam-零食杏仁-000000?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/id/yukito20020209/) -->
+
+<!-- [![Miyoushe](https://img.shields.io/badge/米游社-yukito-4EA4DD?style=flat-square&logo=mihoyo&logoColor=white)](https://www.miyoushe.com/dby/accountCenter/postList?id=6121542) -->
 
 </div>
 
@@ -37,8 +48,8 @@
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=3000&color=F7B4E0&center=true&vCenter=true&multiline=true&width=435&height=85&lines=Kerwin+Wang;Stay+young%2C+stay+simple!
 
-![个人标签](https://img.shields.io/badge/喜欢-%F0%9F%90%8F%E6%91%B8%E9%B1%BC-89CFF0?style=flat-square) 
-![MBTI](https://img.shields.io/badge/MBTI-%F0%9F%A4%94INFJ-9ED8D8?style=flat-square) 
+![个人标签](https://img.shields.io/badge/喜欢-%F0%9F%90%8F%E6%91%B8%E9%B1%BC-89CFF0?style=flat-square)
+![MBTI](https://img.shields.io/badge/MBTI-%F0%9F%A4%94INFJ-9ED8D8?style=flat-square)
 ![兴趣领域](https://img.shields.io/badge/爱好-%F0%9F%8E%AD%E5%8A%A8%E6%BC%AB+%F0%9F%93%B8%E6%91%84%E5%BD%B1-FFB6C1?style=flat-square)
 ![访问统计](https://komarev.com/ghpvc/?username=yukito0209&color=9F7AEA&style=flat-square&abbreviated=true&label=PROFILE+VIEWS)
 
@@ -119,8 +130,7 @@
   </tr>
 </table>
 
-
-<h3 align="center">🛠️ 技能树 🎮</h3>
+<h3 align="center">🛠️ Technologies & Tools</h3>
 
 <p align="center">
   <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white" />
@@ -154,7 +164,7 @@
 <img alt="MDX" src="https://img.shields.io/badge/-MDX-1B1F24?style=flat-square&logo=mdx&logoColor=white" />
 </p>
 
-<h3 align="center">💻 开发环境 🛠️</h3>
+<h3 align="center">💻 Development Environment</h3>
 
 <p align="center">
   <img alt="macOS" src="https://img.shields.io/badge/-macOS-333?style=flat-square&logo=apple&logoColor=white" />
