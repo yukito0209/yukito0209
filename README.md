@@ -148,17 +148,17 @@
   <img alt="Android" src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
   <img alt="Linux"
     src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white" />
-<img alt="Git"
+  <img alt="Git"
     src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img alt="Unity"
+  <img alt="Unity"
     src="https://img.shields.io/badge/-Unity-F8F8F5?style=flat-square&logo=unity&logoColor=black" />
-<img alt="Godot"
+  <img alt="Godot"
     src="https://img.shields.io/badge/-Godot Engine-478CBF?style=flat-square&logo=godotengine&logoColor=white" />
-<img alt="diagramsdotnet" src="https://img.shields.io/badge/-draw.io-F08705?style=flat-square&logo=diagramsdotnet&logoColor=white" />
-<img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
-<img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
-<img alt="MDX" src="https://img.shields.io/badge/-MDX-1B1F24?style=flat-square&logo=mdx&logoColor=white" />
+  <img alt="diagramsdotnet" src="https://img.shields.io/badge/-draw.io-F08705?style=flat-square&logo=diagramsdotnet&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
+  <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
+  <img alt="MDX" src="https://img.shields.io/badge/-MDX-1B1F24?style=flat-square&logo=mdx&logoColor=white" />
 </p>
 
 <h3 align="center">💻 Development Environment</h3>
