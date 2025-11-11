@@ -14,14 +14,10 @@
 
 [![CityU](<https://img.shields.io/badge/CityUHK(DG)-School%20of%20Business-AC145A?style=flat-square&logo=bank&logoColor=white>)](https://www.cityu-dg.edu.cn/)
 
-<!-- 📅 2024-2026 | [課程大綱](https://www.cb.cityu.edu.hk/is/postgraduate-degrees/taught-postgraduate/msc-business-information-systems) -->
-
 </td>
 <td style="border: none; padding: 8px;" align="center">
 
 [![NUIST](https://img.shields.io/badge/NUIST-School%20of%20Computer%20Science-004080?style=flat-square&logo=shield&logoColor=white)](https://www.nuist.edu.cn/main.htm)
-
-<!-- 📅 2020-2024 | [学院官网](http://scs.nuist.edu.cn/) -->
 
 </td>
 </tr>
