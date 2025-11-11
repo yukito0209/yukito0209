@@ -149,7 +149,7 @@
   <img alt="Unity"
     src="https://img.shields.io/badge/-Unity-F8F8F5?style=flat-square&logo=unity&logoColor=black" />
   <img alt="Godot"
-    src="https://img.shields.io/badge/-Godot Engine-478CBF?style=flat-square&logo=godotengine&logoColor=white" />
+    src="https://img.shields.io/badge/-Godot%20Engine-478CBF?style=flat-square&logo=godotengine&logoColor=white" />
   <img alt="diagramsdotnet" src="https://img.shields.io/badge/-draw.io-F08705?style=flat-square&logo=diagramsdotnet&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
