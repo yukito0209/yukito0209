@@ -1,7 +1,7 @@
 ## _一緒に泣きたいよ、一緒に笑いたいよ、僕らの道が平行線だとしても。_
 
 <div align="center">
-  <img src="image/d1.webp" alt="d1" width="100%" />
+  <img src="image/mystia.png" alt="mystia" width="100%" />
 </div>
 
 <div align="center">
