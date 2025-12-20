@@ -39,9 +39,7 @@
 
 <div align="center">
 
-![Modern C++ template][github-sub-title:img]
-
-[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=3000&color=F7B4E0&center=true&vCenter=true&multiline=true&width=435&height=85&lines=Kerwin+Wang;Stay+young%2C+stay+simple!
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Hina+Mincho&pause=500&color=F6C2DF&center=true&vCenter=true&multiline=true&width=435&height=66&lines=%E9%A1%98%E3%82%8F%E3%81%8F%E3%81%AF%E8%8A%B1%E3%81%AE%E4%B8%8B%E3%81%AB%E3%81%A6%E6%98%A5%E6%AD%BB%E3%81%AA%E3%82%80+;%E3%81%9D%E3%81%AE%E5%A6%82%E6%9C%88%E3%81%AE%E6%9C%9B%E6%9C%88%E3%81%AE%E3%81%93%E3%82%8D" alt="Typing SVG" /></a>
 
 ![个人标签](https://img.shields.io/badge/喜欢-摸鱼-00D4FF?style=for-the-badge&labelColor=0A1A2F&color=00D4FF)
 ![MBTI](https://img.shields.io/badge/MBTI-INFJ-7C3AED?style=for-the-badge&labelColor=1E1B4B&color=7C3AED)
