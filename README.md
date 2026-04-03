@@ -123,12 +123,12 @@
     <td colspan="6" align="center"><a href="https://github.com/ryo-ma/github-profile-trophy">
       <picture>
         <source
-          srcset="https://github-profile-trophy.vercel.app/?username=yukito0209&column=7&row=1&margin-w=8&no-bg=true&no-frame=true&theme=onedark"
+          srcset="https://github-profile-trophy-delta-seven.vercel.app/?username=yukito0209&column=7&row=1&margin-w=8&no-bg=true&no-frame=true&theme=onedark"
           media="(prefers-color-scheme: dark)" />
         <source
-          srcset="https://github-profile-trophy.vercel.app/?username=yukito0209&column=7&row=1&margin-w=8&no-bg=true&no-frame=true"
+          srcset="https://github-profile-trophy-delta-seven.vercel.app/?username=yukito0209&column=7&row=1&margin-w=8&no-bg=true&no-frame=true"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://github-profile-trophy.vercel.app/?username=yukito0209&column=7&row=1&margin-w=8&no-bg=true&no-frame=true" width="100%" />
+        <img src="https://github-profile-trophy-delta-seven.vercel.app/?username=yukito0209&column=7&row=1&margin-w=8&no-bg=true&no-frame=true" width="100%" />
       </picture>
     </a></td>
   </tr>
