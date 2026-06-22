@@ -5,6 +5,9 @@ import urllib.request
 
 OUTPUT_DIR = Path("image/profile-summary-cards")
 TITLE_COLOR = "#000000"
+TITLE_OVERRIDES = {
+    "productive-time.svg": "Commits (UTC+8)",
+}
 
 CARDS = {
     "repos-per-language.svg": (
@@ -22,7 +25,8 @@ CARDS = {
 }
 
 TITLE_RE = re.compile(
-    r'(<text x="30" y="40" style="font-size:\s*22px;\s*fill:\s*)[^;"]+(\s*;?\s*">)'
+    r'(<text x="30" y="40" style="font-size:\s*22px;\s*fill:\s*)'
+    r'[^;"]+(\s*;?\s*">)([^<]*)(</text>)'
 )
 
 
@@ -35,8 +39,11 @@ def fetch_svg(url: str) -> str:
         return response.read().decode("utf-8")
 
 
-def set_title_color(svg: str) -> str:
-    updated, count = TITLE_RE.subn(rf"\1{TITLE_COLOR}\2", svg, count=1)
+def set_title(svg: str, title: str | None = None) -> str:
+    def replace_title(match: re.Match[str]) -> str:
+        return f"{match.group(1)}{TITLE_COLOR}{match.group(2)}{title or match.group(3)}{match.group(4)}"
+
+    updated, count = TITLE_RE.subn(replace_title, svg, count=1)
     if count != 1:
         raise RuntimeError("Could not find the summary card title text")
     return updated
@@ -45,7 +52,7 @@ def set_title_color(svg: str) -> str:
 def main() -> None:
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     for filename, url in CARDS.items():
-        svg = set_title_color(fetch_svg(url))
+        svg = set_title(fetch_svg(url), TITLE_OVERRIDES.get(filename))
         (OUTPUT_DIR / filename).write_text(svg, encoding="utf-8")
 
 
