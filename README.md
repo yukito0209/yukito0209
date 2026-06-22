@@ -75,13 +75,13 @@
   </tr>
   <tr>
     <td colspan="2" align="center"><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yukito0209&theme=transparent" height="100%" />
+      <img src="image/profile-summary-cards/repos-per-language.svg" height="100%" />
     </a></td>
     <td colspan="2" align="center"><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yukito0209&theme=transparent" height="100%" />
+      <img src="image/profile-summary-cards/most-commit-language.svg" height="100%" />
     </a></td>
     <td colspan="2" align="center"><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yukito0209&utcOffset=8&theme=transparent" height="100%" />
+      <img src="image/profile-summary-cards/productive-time.svg" height="100%" />
     </a></td>
   </tr>
   <tr>
