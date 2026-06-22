@@ -27,5 +27,5 @@ jobs:
             echo "No summary card changes to commit."
           else
             git commit -m "Update profile summary cards"
-            git push
+            git push origin "HEAD:${GITHUB_REF_NAME}"
           fi
