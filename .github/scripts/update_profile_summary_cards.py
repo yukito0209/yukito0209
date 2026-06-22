@@ -22,7 +22,7 @@ CARDS = {
 }
 
 TITLE_RE = re.compile(
-    r'(<text x="30" y="40" style="font-size: 22px; fill: )[^;"]+(;">)'
+    r'(<text x="30" y="40" style="font-size:\s*22px;\s*fill:\s*)[^;"]+(\s*;?\s*">)'
 )
 
 
