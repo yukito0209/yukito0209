@@ -48,18 +48,9 @@
 
 </div>
 
-<table width="100%" align="center">
+<table width="100%" align="center" cellpadding="0" cellspacing="0">
   <tr>
     <td colspan="3" align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
-      <!-- <picture>
-        <source
-          srcset="https://github-readme-stats.vercel.app/api?username=yukito0209&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&number_format=long&bg_color=00000000&theme=dark"
-          media="(prefers-color-scheme: dark)" />
-        <source
-          srcset="https://github-readme-stats.vercel.app/api?username=yukito0209&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&number_format=long&bg_color=00000000"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://github-readme-stats.vercel.app/api?username=yukito0209&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&number_format=long" height="100%" />
-      </picture> -->
       <picture>
         <source
           srcset="https://github-readme-stats-fast.vercel.app/api?username=yukito0209&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&number_format=long&bg_color=00000000&theme=dark"
@@ -67,7 +58,7 @@
         <source
           srcset="https://github-readme-stats-fast.vercel.app/api?username=yukito0209&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&number_format=long&bg_color=00000000"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=yukito0209&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&number_format=long" height="100%" />
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=yukito0209&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&number_format=long&bg_color=00000000" height="100%" />
       </picture>
     </a></td>
     <td colspan="3" align="center"><a href="https://github.com/denvercoder1/github-readme-streak-stats">
@@ -78,45 +69,19 @@
         <source
           srcset="https://streak-stats.demolab.com?user=yukito0209&mode=daily&hide_border=true&background=00000000"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://streak-stats.demolab.com?user=yukito0209&mode=daily&hide_border=true" height="100%" />
+        <img src="https://streak-stats.demolab.com?user=yukito0209&mode=daily&hide_border=true&background=00000000" height="100%" />
       </picture>
     </a></td>
   </tr>
   <tr>
-<!-- Thanks @zetaloop! -->
     <td colspan="2" align="center"><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-      <picture>
-        <source
-          srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yukito0209&border_color=0000&bg_color=0000&theme=nord_dark"
-          media="(prefers-color-scheme: dark)" />
-        <source
-          srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yukito0209&border_color=0000&bg_color=0000&theme=nord_bright"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yukito0209&border_color=0000&bg_color=0000" height="100%" />
-      </picture>
+      <img src="image/profile-summary-cards/repos-per-language.svg" height="100%" />
     </a></td>
     <td colspan="2" align="center"><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-      <picture>
-        <source
-          srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yukito0209&border_color=0000&bg_color=0000&theme=nord_dark"
-          media="(prefers-color-scheme: dark)" />
-        <source
-          srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yukito0209&border_color=0000&bg_color=0000&theme=nord_bright"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yukito0209&border_color=0000&bg_color=0000" height="100%" />
-      </picture>
+      <img src="image/profile-summary-cards/most-commit-language.svg" height="100%" />
     </a></td>
     <td colspan="2" align="center"><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-<!-- UTC +8.00 好怪，等有空改成 UTC +08:00 -->
-      <picture>
-        <source
-          srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yukito0209&utcOffset=8&border_color=0000&bg_color=0000&theme=nord_dark"
-          media="(prefers-color-scheme: dark)" />
-        <source
-          srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yukito0209&utcOffset=8&border_color=0000&bg_color=0000&theme=nord_bright"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yukito0209&utcOffset=8&border_color=0000&bg_color=0000" height="100%" />
-      </picture>
+      <img src="image/profile-summary-cards/productive-time.svg" height="100%" />
     </a></td>
   </tr>
   <tr>
