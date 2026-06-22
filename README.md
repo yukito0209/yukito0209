@@ -48,56 +48,56 @@
 
 </div>
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <picture>
-      <source
-        srcset="https://github-readme-stats-fast.vercel.app/api?username=yukito0209&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&number_format=long&bg_color=00000000&theme=dark"
-        media="(prefers-color-scheme: dark)" />
-      <source
-        srcset="https://github-readme-stats-fast.vercel.app/api?username=yukito0209&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&number_format=long&bg_color=00000000"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=yukito0209&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&number_format=long&bg_color=00000000" width="49%" />
-    </picture>
-  </a>
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <picture>
-      <source
-        srcset="https://streak-stats.demolab.com?user=yukito0209&mode=daily&hide_border=true&background=00000000&theme=dark"
-        media="(prefers-color-scheme: dark)" />
-      <source
-        srcset="https://streak-stats.demolab.com?user=yukito0209&mode=daily&hide_border=true&background=00000000"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-      <img src="https://streak-stats.demolab.com?user=yukito0209&mode=daily&hide_border=true&background=00000000" width="49%" />
-    </picture>
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yukito0209&theme=transparent" width="32%" />
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yukito0209&theme=transparent" width="32%" />
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yukito0209&utcOffset=8&theme=transparent" width="32%" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <picture>
-      <source
-        srcset="https://github-profile-trophy-iota-three.vercel.app/?username=yukito0209&column=7&row=1&margin-w=8&no-bg=true&no-frame=true&theme=onedark"
-        media="(prefers-color-scheme: dark)" />
-      <source
-        srcset="https://github-profile-trophy-iota-three.vercel.app/?username=yukito0209&column=7&row=1&margin-w=8&no-bg=true&no-frame=true"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-      <img src="https://github-profile-trophy-iota-three.vercel.app/?username=yukito0209&column=7&row=1&margin-w=8&no-bg=true&no-frame=true" width="100%" />
-    </picture>
-  </a>
-</div>
+<table width="100%" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td colspan="3" align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
+      <picture>
+        <source
+          srcset="https://github-readme-stats-fast.vercel.app/api?username=yukito0209&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&number_format=long&bg_color=00000000&theme=dark"
+          media="(prefers-color-scheme: dark)" />
+        <source
+          srcset="https://github-readme-stats-fast.vercel.app/api?username=yukito0209&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&number_format=long&bg_color=00000000"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=yukito0209&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&number_format=long&bg_color=00000000" height="100%" />
+      </picture>
+    </a></td>
+    <td colspan="3" align="center"><a href="https://github.com/denvercoder1/github-readme-streak-stats">
+      <picture>
+        <source
+          srcset="https://streak-stats.demolab.com?user=yukito0209&mode=daily&hide_border=true&background=00000000&theme=dark"
+          media="(prefers-color-scheme: dark)" />
+        <source
+          srcset="https://streak-stats.demolab.com?user=yukito0209&mode=daily&hide_border=true&background=00000000"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img src="https://streak-stats.demolab.com?user=yukito0209&mode=daily&hide_border=true&background=00000000" height="100%" />
+      </picture>
+    </a></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yukito0209&theme=transparent" height="100%" />
+    </a></td>
+    <td colspan="2" align="center"><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yukito0209&theme=transparent" height="100%" />
+    </a></td>
+    <td colspan="2" align="center"><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yukito0209&utcOffset=8&theme=transparent" height="100%" />
+    </a></td>
+  </tr>
+  <tr>
+    <td colspan="6" align="center"><a href="https://github.com/ryo-ma/github-profile-trophy">
+      <picture>
+        <source
+          srcset="https://github-profile-trophy-iota-three.vercel.app/?username=yukito0209&column=7&row=1&margin-w=8&no-bg=true&no-frame=true&theme=onedark"
+          media="(prefers-color-scheme: dark)" />
+        <source
+          srcset="https://github-profile-trophy-iota-three.vercel.app/?username=yukito0209&column=7&row=1&margin-w=8&no-bg=true&no-frame=true"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img src="https://github-profile-trophy-iota-three.vercel.app/?username=yukito0209&column=7&row=1&margin-w=8&no-bg=true&no-frame=true" width="100%" />
+      </picture>
+    </a></td>
+  </tr>
+</table>
 
 <h3 align="center">🛠️ Technologies & Tools</h3>
 
