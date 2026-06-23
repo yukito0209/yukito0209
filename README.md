@@ -12,7 +12,7 @@
 <tr style="border: none;">
 <td style="border: none; padding: 8px;" align="center">
 
-[![CityU](<https://img.shields.io/badge/CityUHK(DG)-School%20of%20Business-AC145A?style=flat-square&logo=bank&logoColor=white>)](https://www.cityu-dg.edu.cn/)
+[![CityU](<https://img.shields.io/badge/CityUHK-School%20of%20Business-AC145A?style=flat-square&logo=bank&logoColor=white>)](https://www.cityu.edu.hk/)
 
 </td>
 <td style="border: none; padding: 8px;" align="center">
